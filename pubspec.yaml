@@ -7,6 +7,7 @@ environment:
   sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
+  google_maps_flutter:
 
 dev_dependencies:
   lints: 2.1.1

@@ -1,9 +1,10 @@
 import 'dart:collection';
 import 'dart:math';
 
+import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:maps_toolkit/src/spherical_util.dart';
 
-import 'latlng.dart';
+
 import 'math_util.dart';
 
 /// Port of PolyUtil from android-maps-utils (https://github.com/googlemaps/android-maps-utils)
